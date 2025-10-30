@@ -1,0 +1,9 @@
+{
+    "model_name": "yolov11n_aio_lr001_lrf01_20.pt",
+    "output_dir": "outputs",
+    "confidence_threshold": 0.5,
+    "wait_time": 3.0,
+    "notify_cooldown": "10",
+    "telegram_token": "8366790973:AAEwwWUCWYsvD5g6uHVp-V13P7V6Ovbr3A0",
+    "telegram_chat_id": "1447214258"
+}
