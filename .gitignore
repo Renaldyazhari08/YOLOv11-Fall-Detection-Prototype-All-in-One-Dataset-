@@ -1,0 +1,8 @@
+# Ignore large files and build artifacts
+*.pkg
+*.pyz
+build/
+*.pt
+__pycache__/
+outputs/
+*.spec
