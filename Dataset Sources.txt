@@ -6,4 +6,5 @@ The five dataset that used in this research :
 4. First Pedestrian = https://universe.roboflow.com/safer-strides/first-pedestrian-test
 5. Human Action Recognition = https://universe.roboflow.com/skripsi-u18dy/human-action-recognition-2000
 
-All the dataset that has been merged and preprocess (AIO) = https://drive.google.com/file/d/1y4jMdWSQM9uiXSQHgV8yOulph-L9o_7k/view?usp=drive_link
+
+All the dataset that has been merged and preprocess (AIO) available at https://drive.google.com/file/d/1y4jMdWSQM9uiXSQHgV8yOulph-L9o_7k/view?usp=drive_link
